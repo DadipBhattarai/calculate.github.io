@@ -1,0 +1,9 @@
+c:\users\the_deep\documents\visual studio 2015\Projects\WindowsFormsAddCalculator\WindowsFormsAddCalculator\bin\Debug\WindowsFormsAddCalculator.exe.config
+c:\users\the_deep\documents\visual studio 2015\Projects\WindowsFormsAddCalculator\WindowsFormsAddCalculator\bin\Debug\WindowsFormsAddCalculator.exe
+c:\users\the_deep\documents\visual studio 2015\Projects\WindowsFormsAddCalculator\WindowsFormsAddCalculator\bin\Debug\WindowsFormsAddCalculator.pdb
+c:\users\the_deep\documents\visual studio 2015\Projects\WindowsFormsAddCalculator\WindowsFormsAddCalculator\obj\Debug\WindowsFormsAddCalculator.csprojResolveAssemblyReference.cache
+c:\users\the_deep\documents\visual studio 2015\Projects\WindowsFormsAddCalculator\WindowsFormsAddCalculator\obj\Debug\WindowsFormsAddCalculator.Form1.resources
+c:\users\the_deep\documents\visual studio 2015\Projects\WindowsFormsAddCalculator\WindowsFormsAddCalculator\obj\Debug\WindowsFormsAddCalculator.Properties.Resources.resources
+c:\users\the_deep\documents\visual studio 2015\Projects\WindowsFormsAddCalculator\WindowsFormsAddCalculator\obj\Debug\WindowsFormsAddCalculator.csproj.GenerateResource.Cache
+c:\users\the_deep\documents\visual studio 2015\Projects\WindowsFormsAddCalculator\WindowsFormsAddCalculator\obj\Debug\WindowsFormsAddCalculator.exe
+c:\users\the_deep\documents\visual studio 2015\Projects\WindowsFormsAddCalculator\WindowsFormsAddCalculator\obj\Debug\WindowsFormsAddCalculator.pdb
